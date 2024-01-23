@@ -1,0 +1,23 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "client-sessions": "^0.8.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-generator": "^4.16.1",
+    "idb-pconnector": "^1.1.0",
+    "itoolkit": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
